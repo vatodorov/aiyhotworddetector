@@ -1,3 +1,6 @@
+Source: https://cyber-renegade.org/2017/12/21/aiy-voice-kit-voice-vad-or-hotword-activation/
+(_Not sure where I got all this code from, but the above blog links it to the author. The code in this repo has my modifications_)
+
 This code is uses snowboy to create a local hotword detector for the AIY Voice Kit api version 2. Also allows voice activation. You can demo the system by using the snowboy.umdl file and "snowboy" as the hotword. 
 
 Otherwise you need to get an account with snowboy to create your own hotword file. Use recordKeyword to create this file. You will need to update the following details in recordKeyword.py including the token from your snowboy account. This will be downloaded to your resources folder.
