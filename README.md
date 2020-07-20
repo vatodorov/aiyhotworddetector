@@ -1,3 +1,5 @@
+# AIY Hot Word Detector - converted my Raspberry PI to a Google Assistant with a custom hot word
+
 Source: https://cyber-renegade.org/2017/12/21/aiy-voice-kit-voice-vad-or-hotword-activation/
 (_Not sure where I got all this code from, but the above blog links it to the author. The code in this repo has my modifications_)
 
